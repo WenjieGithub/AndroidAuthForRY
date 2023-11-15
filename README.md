@@ -1,2 +1,1 @@
-# AndroidAuthForRY
-荣耀联运SDK
+- 荣耀依赖上传至JitPack
